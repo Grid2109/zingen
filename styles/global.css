@@ -31,6 +31,13 @@
     --fs-lg: 1.25rem; /*font-size large*/
     --fs-xl: 1.5rem; /*font-size extra large*/
     --fs-2xl: 2.5rem; /*font-size double extra large*/
+
+    --py-base: 1rem;
+    --py-lg: 1.5rem; 
+    --py-xl: 3rem;
+
+    --px-lg: 1.5rem;
+
 }
 
 html {
@@ -78,5 +85,12 @@ ul [role="list"] {
     --fs-lg: 2rem; /*font-size large*/
     --fs-xl: 3rem; /*font-size extra large*/
     --fs-2xl: 4rem; /*font-size double extra large*/
+
+   
+    --py-base: 1.5rem;
+    --py-lg: 2.5rem; 
+    --py-xl: 5rem;
+
+    --px-lg: 2rem;
   }
 }
