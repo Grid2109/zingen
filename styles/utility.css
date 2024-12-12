@@ -18,8 +18,16 @@
   display: flex;
 }
 
+.items-center {
+  align-items: center;
+}
+
 .gap-1 {
   gap: 1rem;
+}
+
+.gap-1\.5 {
+  gap: 1.5rem;
 }
 
 
@@ -30,7 +38,7 @@
     100% - var(--px-lg) * 2
   ); /*Função do css q Pega o mínimo entre dois*/
   margin-inline: auto;
-  border: solid violet;
+  /* border: solid violet; */
 }
 
 .desktop-only {
