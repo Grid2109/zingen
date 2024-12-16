@@ -2,7 +2,7 @@
     --btn-bg-color: var(--text-color-primary);
     --btn-color: var(--bg-color);
     border: none;
-    background-color: transparent;
+    
 
     display: flex;
     align-items: center;
