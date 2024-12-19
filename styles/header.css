@@ -1,5 +1,8 @@
 header {
-    & a:first-child {
-        margin-right: auto;
+    & a {
+        color: var(--text-color-secondary);
+        &:first-child {
+            margin-right: auto;
+        }
     }
 }
