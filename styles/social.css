@@ -8,7 +8,7 @@ display: block;
 -webkit-background-clip: initial;
 background-clip: initial;
 
-    &[aria-label="Tiktok"] {
+    &[aria-label="tiktok"] {
         --bg-img: url(../assets/icons/tiktok.svg);
     
         &:hover {
@@ -17,7 +17,7 @@ background-clip: initial;
     }
 
     
-    &[aria-label="Instagram"] {
+    &[aria-label="instagram"] {
         --bg-img: url(../assets/icons/instagram.svg);
     
         &:hover {
@@ -26,7 +26,7 @@ background-clip: initial;
     }
 
     
-    &[aria-label="Twitter"] {
+    &[aria-label="twitter"] {
         --bg-img: url(../assets/icons/twitter.svg);
     
         &:hover {
@@ -35,7 +35,7 @@ background-clip: initial;
     }
 
     
-    &[aria-label="Discord"] {
+    &[aria-label="discord"] {
         --bg-img: url(../assets/icons/discord.svg);
     
         &:hover {
