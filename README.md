@@ -45,6 +45,8 @@ Uma landing page moderna e totalmente responsiva desenvolvida para um produto fi
 <h2>💡 Destaques de Implementação</h2>
 <h3>Componentes Reutilizáveis</h3>
 ![Screenshot 2024-12-26 105043](https://github.com/user-attachments/assets/aec7444b-a03c-42cd-afab-26624bed64e6)
+![image](https://github.com/user-attachments/assets/c26783ec-94aa-4252-b8a2-6215e4b6014a)
+
 
 
 
