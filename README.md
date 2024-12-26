@@ -1,6 +1,6 @@
 <h1>Landing Page Responsiva 🚀</h1><br>
 <h2>📱 Sobre o Projeto</h2><br>
-Uma landing page moderna e totalmente responsiva desenvolvida para um produto fictício, com foco em design mobile-first e acessibilidade. O projeto demonstra a aplicação prática de conceitos modernos de HTML e CSS, com ênfase especial em responsividade e boas práticas de desenvolvimento.
+Uma landing page de produto moderna e totalmente responsiva desenvolvida para um produto fictício, com foco em design mobile-first e acessibilidade. O projeto demonstra a aplicação prática de conceitos modernos de HTML e CSS, com ênfase especial em responsividade e boas práticas de desenvolvimento.
 <h2>🛠️ Tecnologias Utilizadas</h2>
 
 <ul>
